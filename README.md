@@ -23,7 +23,7 @@ This repository contains a Bash script to automate the deployment of a static we
 
 ```bash
 az login --use-device-code && git clone https://github.com/crtvrffnrt/azstoragewebsite.git && chmod +x ./azstoragewebsite/azstoragewebsite.sh && ./azstoragewebsite/azstoragewebsite.sh -i index.html -n "CompanySupport"```
-
+```
 Run the script with the following options:
 
 ```bash
